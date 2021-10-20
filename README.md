@@ -18,6 +18,10 @@
   <a href="http://montanha2004.blogspot.com/" target="_blank">
     <img src="https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white" target="_blank"></a> 
   
+  <a href="" target="_blank">
+    <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" target="_blank"></a>
+  
+  
   
   ### Sou luciano, aqui estão algumas informações do meu perfil!
 <div align="center">
